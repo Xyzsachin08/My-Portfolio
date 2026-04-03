@@ -46,15 +46,18 @@ portfolio/
 
 
 🎓 **Skills / Experience**
-📷 <img width="1900" height="909" alt="image" src="https://github.com/user-attachments/assets/23a0f42a-3067-464e-b942-b07b6363a006" />
+📷 <img width="1902" height="914" alt="image" src="https://github.com/user-attachments/assets/3a6b7be1-877f-4810-baba-9ad3c46a9331" />
+
 
 
 📂 **Projects Showcase**
-📷 <img width="1900" height="903" alt="image" src="https://github.com/user-attachments/assets/01e93574-370c-41b9-8108-bb9cee86545f" />
+📷 <img width="1899" height="910" alt="image" src="https://github.com/user-attachments/assets/41fbdf4d-b59b-432a-adfb-17c4b13498cc" />
+
 
 
 📬 **Contact Section**
-📷 <img width="1900" height="903" alt="image" src="https://github.com/user-attachments/assets/2f120501-1540-490a-bc88-c0b1d0286ee3" />
+📷 <img width="1899" height="910" alt="image" src="https://github.com/user-attachments/assets/edc65b94-be2a-4545-a38e-b5fce069bd1c" />
+
 
 
 ---
